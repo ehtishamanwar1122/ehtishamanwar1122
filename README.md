@@ -1,3 +1,4 @@
+![Logo](https://github.com/ehtishamanwar1122/ehtishamanwar1122/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ehtisham Anwar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
